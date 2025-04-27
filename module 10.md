@@ -210,7 +210,6 @@ Thus, the program to insert an element in doubly linked list is verified success
 
 
 
-
 ## EXP NO:4(e) C FUNCTION TO DELETE A GIVEN ELEMENT IN THE GIVEN LINKED LIST
 
 

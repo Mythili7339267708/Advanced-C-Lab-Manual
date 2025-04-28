@@ -1,9 +1,9 @@
-## EXP NO:1(a) C PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
+# EXP NO:1(a) C PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
 
-Aim:
+## Aim:
 To write a C program for array of structure to check eligibility for the vaccine person age above 6 years of age.
 
-Algorithm:
+## Algorithm:
 1.	Declare structure eligible with age (integer) and n (character array)
 2.	Declare variable e of type eligible
 3.	Input age and name using scanf, store in e
@@ -14,7 +14,7 @@ Else
 5.	Print details (e.age, e.n)
 6.	Return 0
  
-Program:
+## Program:
 
 ```
 #include<stdio.h> struct eligib
@@ -41,24 +41,24 @@ Program:
 
 
 
-Output:
+## Output:
 
 
 ![437295418-875d7abd-3282-4d64-96f7-b69834282f0a](https://github.com/user-attachments/assets/87db6e5c-0c38-42a8-a444-6a0a8f7741c3)
 
 
 
-Result:
+## Result:
 Thus, the program is verified successfully. 
 
 
 
-## EXP NO:1(b) C PROGRAM FOR PASSING STRUCTURES AS FUNCTION ARGUMENTS AND RETURNING A STRUCTURE FROM A FUNCTION
+# EXP NO:1(b) C PROGRAM FOR PASSING STRUCTURES AS FUNCTION ARGUMENTS AND RETURNING A STRUCTURE FROM A FUNCTION
 
-Aim:
+## Aim:
 To write a C program for passing structure as function and returning a structure from a function
 
-Algorithm:
+## Algorithm:
 1.	Define structure numbers with members a and b.
 2.	Declare variable n of type numbers.
 3.	Prompt the user to enter values for a and b.
@@ -67,7 +67,7 @@ Algorithm:
 6.	Print the result returned by the add function.
 7.	Return 0
  
-Program:
+## Program:
 
 ```
 
@@ -90,7 +90,7 @@ Program:
 
 
 
-Output:
+## Output:
 
 
 
@@ -100,17 +100,17 @@ Output:
 
 
 
-Result:
+## Result:
 Thus, the program is verified successfully
 
 
  
-## EXP.NO:1(c) C PROGRAM TO READ A FILE NAME FROM USER AND WRITE THAT FILE USING FOPEN()
+# EXP.NO:1(c) C PROGRAM TO READ A FILE NAME FROM USER AND WRITE THAT FILE USING FOPEN()
 
-Aim:
+## Aim:
 To write a C program to read a file name from user
 
-Algorithm:
+## Algorithm:
 1.	Include the necessary header file stdio.h.
 2.	Begin the main function.
 3.	Declare a file pointer p.
@@ -127,7 +127,7 @@ Use scanf to input the file name into the name array.
 4.	End the main function.
 5.	Return 0 to indicate successful program execution.
  
-Program:
+## Program:
 
 ```
 
@@ -144,7 +144,7 @@ Program:
 ```
 
 
-Output:
+## Output:
 
 
 
@@ -160,15 +160,18 @@ Output:
 
 
 
-Result:
+## Result:
 Thus, the program is verified successfully
  
 
 
-## EXP NO:1(d)   PROGRAM TO READ A FILE NAME FROM USER, WRITE THAT FILE AND INSERT TEXT IN TO THAT FILE
-Aim:
+# EXP NO:1(d)   PROGRAM TO READ A FILE NAME FROM USER, WRITE THAT FILE AND INSERT TEXT IN TO THAT FILE
+
+## Aim:
 To write a C program to read, a file and insert text in that file
-Algorithm:
+
+
+## Algorithm:
 1.	Include the necessary header file stdio.h.
 2.	Begin the main function.
 3.	Declare a file pointer p.
@@ -185,7 +188,7 @@ Use scanf to input the file name into the name array and the number of strings i
 4.	End the main function.
 5.	Return 0 to indicate successful program execution.
  
-Program:
+## Program:
 
 ```
 #include <stdio.h> int main()
@@ -202,7 +205,7 @@ Program:
 
 
 
-Output:
+## Output:
 
 
 
@@ -214,17 +217,17 @@ Output:
 
 
 
-Result:
+## Result:
 Thus, the program is verified successfully
 
 
 
-## Ex No 1(e) : C PROGRAM TO DISPLAY STUDENT DETAILS USING STRUCTURE
+# Ex No 1(e) : C PROGRAM TO DISPLAY STUDENT DETAILS USING STRUCTURE
 
-Aim:
+## Aim:
 The aim of this program is to dynamically allocate memory to store information about multiple subjects (name and marks), input the details for each subject, and then display the stored information. Finally, it frees the allocated memory to prevent memory leaks.
 
-Algorithm:
+## Algorithm:
 1.Input the number of subjects.
 
 2.Read the integer value n from the user, which represents the number of subjects.
@@ -251,7 +254,7 @@ Algorithm:
 
 13.End the program by returning 0.
 
-Program:
+## Program:
 
 ```
 #include <stdio.h>
@@ -289,7 +292,7 @@ Program:
 
 
 
-Output:
+## Output:
 
 
 ![437295856-297a272e-1888-4dcc-a7ce-9b03c9c2bac3](https://github.com/user-attachments/assets/fef73f12-cd79-4f14-9e90-c7c05d40f090)
@@ -300,5 +303,5 @@ Output:
 
 
 
-Result:
+## Result:
 Thus, the program is verified successfully

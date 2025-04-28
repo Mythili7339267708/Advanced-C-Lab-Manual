@@ -43,7 +43,8 @@ Program:
 
 Output:
 
-![image](https://github.com/user-attachments/assets/1d980220-078e-41c9-a36c-5ab329b61504)
+
+![437295418-875d7abd-3282-4d64-96f7-b69834282f0a](https://github.com/user-attachments/assets/87db6e5c-0c38-42a8-a444-6a0a8f7741c3)
 
 
 
@@ -53,6 +54,7 @@ Thus, the program is verified successfully.
 
 
 EXP NO:1(b) C PROGRAM FOR PASSING STRUCTURES AS FUNCTION ARGUMENTS AND RETURNING A STRUCTURE FROM A FUNCTION
+
 Aim:
 To write a C program for passing structure as function and returning a structure from a function
 
@@ -90,8 +92,9 @@ Program:
 
 Output:
 
-![image](https://github.com/user-attachments/assets/6e385a61-b7de-4744-822b-09fd93dd3895)
 
+
+![437295527-c4fda8ea-7b67-47c2-9123-dfdae6e283a6](https://github.com/user-attachments/assets/4caa7266-55c4-4fea-b1ef-62673aaf3b9a)
 
 
 
@@ -144,11 +147,11 @@ Program:
 Output:
 
 
-![image](https://github.com/user-attachments/assets/565b7075-3b79-49fc-aac3-2e0bebd813d2)
 
 
 
 
+![437295636-26ae7632-11c8-4c2e-9627-3848ad724e46](https://github.com/user-attachments/assets/859d3eb0-f09a-4396-b0c0-b72692bb80d1)
 
 
 
@@ -202,8 +205,9 @@ Program:
 Output:
 
 
-![image](https://github.com/user-attachments/assets/9f159bac-72ae-414b-821d-b51dc018242b)
 
+
+![437295751-4a926356-22df-4a11-a5f8-6f7b374e2a86](https://github.com/user-attachments/assets/870170e3-3b70-44fe-aab2-54d5656d1322)
 
 
 
@@ -288,7 +292,7 @@ Program:
 Output:
 
 
-![image](https://github.com/user-attachments/assets/5a372475-3a6e-4d0f-86c6-9f5c26445a97)
+![437295856-297a272e-1888-4dcc-a7ce-9b03c9c2bac3](https://github.com/user-attachments/assets/fef73f12-cd79-4f14-9e90-c7c05d40f090)
 
 
 
